@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 209.435 s <<< FAILURE! - in TestSuite
+Nytro.Media.AppTest.mediafiles  Time elapsed: 196.906 s  <<< FAILURE!
+java.lang.IndexOutOfBoundsException: Index 5 out of bounds for length 5
+	at Nytro.Media.AppTest.mediafiles(AppTest.java:164)
+
